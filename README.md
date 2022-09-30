@@ -1,6 +1,6 @@
 # Citizen Science Lab Workshops for the Seattle Bridges Academy
 
-| Workshop      | Description     | Jupyter Notebook    |
+| Workshop      | Slide Shpw     | Jupyter Notebook    |
 | -----------   | ----------- | ------------------- |
 | Student Digital Portfilio | [Intro to Computing with Jupyter Notebooks](https://docs.google.com/presentation/d/16MTcf_3uxXWkhcTtFySD2vQaBLCRcEObL-OUhnmJKRI/edit?usp=sharing)      | [Intro Notebook]() |
 | Galton Board |  [Learn about Probabilities bu building a Galton Board]()  | [Galton Notebook]()
