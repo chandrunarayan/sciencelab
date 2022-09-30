@@ -11,4 +11,4 @@
 | Sun Diameter | [Measure Sun Diameter](https://docs.google.com/presentation/d/15tscvuW3RcbRIYG4LCk5Dwl_jx3ZJLN3k6sQTMDQ8ns/edit?usp=sharing) | [Sun Notebook](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fsciencelab&branch=gh-pages&urlpath=lab%2Ftree%2Fsciencelab%2Fcalculate_sun_dia%2Fcalculate_sun_dia.ipynb)
 | Spectroscopy  | [Build a Spectrometer](https://docs.google.com/presentation/d/1umeXaNZbMoFs623ml2wt95ZJMPRcyEUVbdqxT7rcd1M/edit?usp=sharing)  | Spectral Notebook |
 | Time Lapse  | [Time Lapse of Growing Sprouts](https://docs.google.com/presentation/d/1umeXaNZbMoFs623ml2wt95ZJMPRcyEUVbdqxT7rcd1M/edit?usp=sharing)  | Sprouts Notebook |
-| LED Circuits  | [Build Raspberry PI Automation]()  | LED Notebook |
+| LED Circuits  | Build Raspberry PI Automation  | LED Notebook |
